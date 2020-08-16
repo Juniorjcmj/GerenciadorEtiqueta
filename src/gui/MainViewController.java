@@ -16,7 +16,7 @@ import javafx.scene.control.ListCell;
 import javafx.scene.control.ListView;
 import javafx.util.Callback;
 
-public class ViewController implements Initializable {
+public class MainViewController implements Initializable {
 
 	@FXML
 	private ComboBox<Person> comboboxPerson;
